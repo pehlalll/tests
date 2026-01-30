@@ -71,4 +71,5 @@ vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@95.163.182.38:7443?encryption=none&
 
 
 
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@185.130.115.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=web.max.ru&type=tcp#testtt
 
