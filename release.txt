@@ -8,7 +8,7 @@
 
 
 
-vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=api-maps.yandex.ru&type=tcp#62.%20%F0%9F%87%B7%F0%9F%87%BA%20
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=api-maps.yandex.ru&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
 
 vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&type=tcp#63.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
@@ -62,6 +62,7 @@ vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.190.225:4433?encryption=non
 vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@95.163.182.152:443?encryption=none&fp=chrome&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&security=reality&serviceName=UpdateService&sid=aefbcf7fc283bd55&sni=goya.rutube.ru&type=grpc#2143.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
 vless://ddde819c-25ce-45a8-9424-99d78146b2d7@217.16.25.144:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=eh.vk.com&type=tcp#2154.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+
 
 
 
