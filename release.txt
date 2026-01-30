@@ -1,5 +1,5 @@
 #profile-title: PeheoNet TEST
-#profile-update-interval: 3
+#profile-update-interval: 24
 
 vless://74b6eee7-898d-4f32-9987-a035210ec5e2@95.163.213.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=m.vk.com&type=tcp#59.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
@@ -66,6 +66,7 @@ vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.189.174:4433?encryption=non
 vless://c4e2b724-90fd-49d0-9f34-0a09911a9608@217.16.16.12:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=ouE1ebHamoTe2bUjcEeebAKm_7dhddTGQxVqicjilgw&sid=a4afc1d9dfdc479c&sni=m1.vk.ru&path=&host=&spx=/#2158.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
 vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@95.163.182.38:7443?encryption=none&fp=chrome&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&security=reality&serviceName=UpdateService&sid=dd700a46e27751d1&sni=5post-gate.x5.ru&type=grpc#2159.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+
 
 
 
