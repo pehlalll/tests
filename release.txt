@@ -20,7 +20,7 @@ vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.83.255:443?encryption=none&f
 
 vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=api-maps.yandex.ru&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
 
-vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=m.vk.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20VK
+vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=m.vk.ru&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
 
 vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:51101?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=4ffc99daad0f261f&sni=m.vk.ru&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
 
@@ -58,6 +58,7 @@ vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.190.225:4433?encryption=non
 vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@95.163.182.152:443?encryption=none&fp=chrome&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&security=reality&serviceName=UpdateService&sid=aefbcf7fc283bd55&sni=goya.rutube.ru&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
 
 vless://ddde819c-25ce-45a8-9424-99d78146b2d7@217.16.25.144:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=eh.vk.com&type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
+
 
 
 
