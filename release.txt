@@ -1,7 +1,7 @@
 #profile-title: PeheoNet TEST
 #profile-update-interval: 24
 
-vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.189.174:4433?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&security=reality&sid=e60d3277446bcac7&sni=yandex.ru&type=tcp%20%F0%9F%87%B7%F0%9F%87%BA%20обход 1
+vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.189.174:4433?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&security=reality&sid=e60d3277446bcac7&sni=yandex.ru&sid=d8c6b58bcbb0c323#🇷🇺 обход 1
 
 vless://74b6eee7-898d-4f32-9987-a035210ec5e2@95.163.213.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=m.vk.com&type=tcp#59.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 
