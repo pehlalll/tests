@@ -1,7 +1,13 @@
 #profile-title: PeheoNet TEST
 #profile-update-interval: 3
-#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@95.163.213.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=m.vk.com&type=tcp#59.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://8c769e56-4d5b-45c3-a175-f1676ce2dd1c@37.139.33.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=itChlzYnj7xu0-o776CzSu4BECllDKkrpsKVlNT5Fw0&security=reality&sid=1de6f79b957b8b5c&sni=m.vk.com&type=tcp#60.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4b523a98e1bbd15b&sni=api-maps.yandex.ru&type=tcp#61.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=api-maps.yandex.ru&type=tcp#62.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&type=tcp#63.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=api-maps.yandex.ru&type=tcp#64.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=api-maps.yandex.ru&type=tcp#65.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=api-maps.yandex.ru&type=tcp#66.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=m.vk.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20VK
 vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:51101?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=4ffc99daad0f261f&sni=m.vk.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20VK
 vless://e127f737-bd10-475a-9461-e68904180eab@37.139.33.57:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=m.vk.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20VK
@@ -27,4 +33,5 @@ vless://ddde819c-25ce-45a8-9424-99d78146b2d7@217.16.25.144:12443?encryption=none
 vless://3382ffbc-ded6-4d14-8074-706157613bd6@109.120.189.174:4433?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&security=reality&sid=e60d3277446bcac7&sni=yandex.ru&type=tcp#2157.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 vless://c4e2b724-90fd-49d0-9f34-0a09911a9608@217.16.16.12:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=ouE1ebHamoTe2bUjcEeebAKm_7dhddTGQxVqicjilgw&sid=a4afc1d9dfdc479c&sni=m1.vk.ru&path=&host=&spx=/#2158.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
 vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@95.163.182.38:7443?encryption=none&fp=chrome&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&security=reality&serviceName=UpdateService&sid=dd700a46e27751d1&sni=5post-gate.x5.ru&type=grpc#2159.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+
 
