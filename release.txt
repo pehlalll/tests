@@ -1,1 +1,6 @@
 vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@89.169.128.105:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1558
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@89.169.128.105:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1558
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@89.169.128.105:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1558
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@89.169.128.105:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1558
+vless://0ff8dbfb-d7ee-4a19-b22d-b652a8b52e22@89.169.128.105:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-1558
+
