@@ -3,7 +3,8 @@
 
 #profile-title: PeheoNet TEST
 #profile-update-interval: 24
-
+# Date/Time: 2026-02-03 / 07:18 (Moscow)
+# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 
 
@@ -40,6 +41,7 @@ vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@51.250.83.31:443/?type=xhttp&encryp
 vless://60f04064-bde0-467d-bc01-7c11582440f0@5-gaming.harknmav.fun:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&sid=bd1c2c12ca44261a&sni=ads.x5.ru&path=&host=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK
 vless://60f04064-bde0-467d-bc01-7c11582440f0@5.188.143.115:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=29Nj1TexJekHKphyU1kpPxV_VKMz2pgAZ96V1VKmYn0&security=reality&sid=bd1c2c12ca44261a&sni=ads.x5.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@95.163.208.119:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xc8CBkdFt4AYO_xP744z4V4RZsIQ0xJpyUKTsXaXp0I&security=reality&sid=bd4038d0ad4e11de&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+
 
 
 
