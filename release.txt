@@ -3,7 +3,6 @@
 
 #profile-title: PeheoNet TEST
 #profile-update-interval: 24
-# Автообновление 24 часа
 
 
 
@@ -179,4 +178,5 @@ vless://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@178.154.230.75:443?encryption=none&
 vless://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@51.250.12.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://545f6499-bee2-454c-96db-0fc028d128f6@84.201.133.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=h4mwlDeT6Rqx41RIMeaPi-qsugZ0JkKcyRU65_K64Ek&security=reality&sid=0a0d3cae&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://c0afdbe5-e506-4fd4-b838-6f9ee6fc3a5f@51.250.73.253:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0SzpdO0462wZ7qyy2aasdMVAcd8dtuWPN0aH8DfLY0Y&security=reality&sid=548cdc&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+
 
