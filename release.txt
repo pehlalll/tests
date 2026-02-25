@@ -8,7 +8,7 @@
 
 #profile-title: PeheoNet TEST
 #profile-update-interval: 24
-
+#profile-description: 448 вариантов!
 
 
 
@@ -462,6 +462,7 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.163.211.13:443?encryption=none&f
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.163.211.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@81.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh1.vk.com&fp=random&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@81.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=UZ2NoBGMbrUpBav3lcqN-E43SxZTIvkjJuHNy-Yk_go&sid=d26763126a7cf4fe&sni=eh1.vk.com&spx=/#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
+
 
 
 
