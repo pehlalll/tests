@@ -22,27 +22,3 @@ vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?flow=xtls-rprx-vis
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.5.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=%2F#%F0%9F%8C%90%20Обход 10
 
 vless://8d1a65d6-9709-4c61-8f15-67bcf6d82fff@51.250.68.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20Обход 11
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#⬇Обычные VPN⬇
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%8C%90+Netherlands
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.118.15:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90+Germany
-
-vless://2baffe9c-099d-481b-8d9c-7eb351c9bf35@pl.netvora.space:443?security=reality&encryption=none&pbk=-E0nfGEUjfQ0szamX2EeZ1SxGnnrCVXOQR7SQBrfdQ0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pl.netvora.space&sid=4e036771e80b4160#%F0%9F%8C%90+Poland
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#%F0%9F%8C%90+USA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
