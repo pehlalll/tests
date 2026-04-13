@@ -1,4 +1,4 @@
-#profile-title: PeheoNet | Белые списки
+#profile-title: PeheoNet 🏳️ White lists 🏳️
 #profile-update-interval: 12
 
 vless://4d869fbd-5933-47a8-a4e9-621951875d34@158.160.132.0:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
